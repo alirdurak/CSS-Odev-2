@@ -1,0 +1,48 @@
+/* ************************* ICON ******************************************************* */
+.icon{
+    text-align: center;
+}
+/************************************************** MAIN  **************************************/
+.center{
+    width: 90%;
+    margin:auto;
+    
+}
+/* *************************************************SEARCH BAR**************************************** */
+.bar-base{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+.search-bar{
+    width: 309px;
+    padding: 1px 2px;
+}
+/* ****************************************************BOTTOM LINKS************************* */
+.bottom{
+        text-align: center;
+}
+.bottom-left{
+    width: 37%;
+    height: 76px;
+    background-color: #7EE5DA;
+    margin: 1px;
+    float: left;
+    padding: 1px;
+}
+.bottom-mid{
+    width: 233px;
+    height: 76px;
+    background-color: #70CCC2;
+    padding: 1px;
+    float: left;
+    margin: 1px;
+
+}
+.bottom-right{
+    background-color: rgb(98, 179, 170);
+    height: 76px;
+    padding: 1px;
+    margin: 1px;
+}
+/* ***********************************************COPYRİHT TEXT*************************************** */
+p{text-align: center;}
